@@ -1,0 +1,16 @@
+<svg viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="700" height="300" fill="#0E1B2E"/>
+<rect x="290" y="40" width="120" height="220" rx="16" fill="#16283F" stroke="#C89B3C" stroke-width="2"/>
+<rect x="305" y="65" width="90" height="150" rx="4" fill="#0E1B2E"/>
+<g fill="#1E7A5D">
+<rect x="315" y="80" width="12" height="12"/><rect x="332" y="80" width="12" height="12"/><rect x="349" y="80" width="12" height="12"/><rect x="366" y="80" width="12" height="12"/>
+<rect x="315" y="97" width="12" height="12"/><rect x="366" y="97" width="12" height="12"/>
+<rect x="315" y="114" width="12" height="12"/><rect x="332" y="114" width="12" height="12"/><rect x="349" y="114" width="12" height="12"/><rect x="366" y="114" width="12" height="12"/>
+<rect x="315" y="131" width="12" height="12"/><rect x="366" y="131" width="12" height="12"/>
+<rect x="315" y="148" width="12" height="12"/><rect x="332" y="148" width="12" height="12"/><rect x="349" y="148" width="12" height="12"/><rect x="366" y="148" width="12" height="12"/>
+</g>
+<circle cx="350" cy="238" r="8" fill="#C89B3C"/>
+<path d="M150,150 Q220,100 285,140" fill="none" stroke="#E4C97A" stroke-width="3" stroke-dasharray="6 4"/>
+<circle cx="150" cy="150" r="20" fill="#1E7A5D"/>
+<text x="150" y="156" font-family="monospace" font-size="16" fill="#F7F4EC" text-anchor="middle">₹</text>
+</svg>
