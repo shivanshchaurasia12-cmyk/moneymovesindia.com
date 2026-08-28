@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://moneymovesindia-com.onrender.com/sitemap.xml
